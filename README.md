@@ -10,12 +10,6 @@
 
 ---
 
-## 🚀 Live Demo
-
-**API Docs:** [https://documind.onrender.com/docs](documind-1-r4ne.onrender.com/docs)
-
----
-
 ## 🏗️ Architecture
 
 ```
